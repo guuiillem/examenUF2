@@ -1,0 +1,40 @@
+{
+  "nom": "Final Mundial Qatar 2022",
+  "data": "18-12-2022",
+  "info": [
+    {
+      "equip": "Argentina",
+      "gols": [
+        {
+          "jugador": "Messi",
+          "minut": 23
+        },
+        {
+          "jugador": "Di María",
+          "minut": 36
+        },
+        {
+          "jugador": "Messi",
+          "minut": 108
+        }
+      ]
+    },
+    {
+      "equip": "França",
+      "gols": [
+        {
+          "jugador": "Mbappé",
+          "minut": 80
+        },
+        {
+          "jugador": "Mbappé",
+          "minut": 81
+        },
+        {
+          "jugador": "Mbappé",
+          "minut": 118
+        }
+      ]
+    }
+  ]
+}
